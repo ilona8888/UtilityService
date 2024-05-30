@@ -7,14 +7,7 @@ import javafx.stage.Stage;
 
 public class UtilityServiceApp extends Application {
 
-    //Сделать
 
-    //1. Колину часть (Сделано)
-    //2. Добавить комментарии в код (Сделано)
-    // 3*. Подтягивать значения тарифов с государственных сайтов (Сделан только значения курса доллара )
-    // 4. Сделать exe файл
-    // 5. Установить на рабочий стол мой и Колин
-    // 6. Залить на гугл диск/ яндекс диск
 
     @Override
     public void start(Stage stage) throws Exception {
